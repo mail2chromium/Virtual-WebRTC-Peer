@@ -6,10 +6,6 @@ A simple webrtc peer that will silently record your real-time communication up t
 
 You can find detailed explanation from **Medium Article**: [Silent WebRtc Peer](https://medium.com/@BeingOttoman/virtual-webrtc-peer-webrtc-audio-video-screen-recording-without-media-server-a0a977026ec9).
 
+## Example:
 
-
-<img src="https://miro.medium.com/max/875/1*TPTqsBm3zXS8TP6Z3UlvTw.gif" width="40" height="40" />
-
-
-
-![ksajdn](https://miro.medium.com/max/875/1*TPTqsBm3zXS8TP6Z3UlvTw.gif)
+![ksajdn](https://github.com/mail2chromium/Virtual-WebRTC-Peer/blob/main/Silent-Peer.gif)
